@@ -1,2 +1,2 @@
 # blackjack
-SYST17796 Project
+Blackjack Game
